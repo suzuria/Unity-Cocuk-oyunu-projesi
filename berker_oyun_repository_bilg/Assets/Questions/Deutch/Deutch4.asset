@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: Deutch4
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 8300000, guid: cb6ca2cd5dc27e844a98ffdef17cac97, type: 3}
+    image: {fileID: 21300000, guid: dda828b04921a4a438ee1db08869ef18, type: 3}
+    Question: Welches ist die richtige Schreibweise
+    Answer:
+    - Scmetterling
+    - Schmecken
+    - Schmerzen
+    - Vogel
+    CorrectAnswer: 1
+  - audio: {fileID: 8300000, guid: 9bd79fbdb74a7914a802888ea4d1739f, type: 3}
+    image: {fileID: 21300000, guid: b54e7f46f02e1a44285d0d391e3a8c3e, type: 3}
+    Question: "Bitte h\xF6ren Sie auf und w\xE4hlen Sie die richtige Antwort?"
+    Answer:
+    - Spielen
+    - "Sp\xE4ter"
+    - Schreiben
+    - Sprechen
+    CorrectAnswer: 4
+  - audio: {fileID: 8300000, guid: 2febb36acb4baab488fbda72cdfffcf7, type: 3}
+    image: {fileID: 21300000, guid: 51a5f6af7f165d34bb3f0f1b66049502, type: 3}
+    Question: "Zuh\xF6ren und antworten!"
+    Answer:
+    - Lesen
+    - Kommen Sie
+    - "H\xF6ren"
+    - Gehen
+    CorrectAnswer: 3

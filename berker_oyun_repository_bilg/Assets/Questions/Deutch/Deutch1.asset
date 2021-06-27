@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: Deutch1
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: 798e9490a66c64a4aa9b1ed1dd39a51a, type: 3}
+    Question: Was ist das fir eine Zahl?
+    Answer:
+    - Eins
+    - Vier
+    - Zehn
+    - Acht
+    CorrectAnswer: 1
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: 6e759243f99d01f4fbac98175dd4c641, type: 3}
+    Question: Was ist das fir eine Zahl?
+    Answer:
+    - Acht
+    - Null
+    - Sechs
+    - Neun
+    CorrectAnswer: 4
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: 4d98875e8a6a57543a28c113fa012bd1, type: 3}
+    Question: Was ist das fir eine Zahl?
+    Answer:
+    - Acht
+    - Zwei
+    - Drei
+    - Neun
+    CorrectAnswer: 3

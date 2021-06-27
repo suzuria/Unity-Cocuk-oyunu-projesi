@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: Eng4
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 8300000, guid: 8081f6d8c14016647b6cd5b0efba5599, type: 3}
+    image: {fileID: 21300000, guid: c5d877d2344194d409fb92a8da245a6a, type: 3}
+    Question: Which one is correct Turkish answer?
+    Answer:
+    - "Muhabbet ku\u015Fu"
+    - Civciv
+    - Hamster
+    - Kanarya
+    CorrectAnswer: 1

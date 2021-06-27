@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: TRlevel4
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: c5d877d2344194d409fb92a8da245a6a, type: 3}
+    Question: "Bu hayvan a\u015Fa\u011F\u0131dakilerden hangisi olabilir?"
+    Answer:
+    - Evcil
+    - "Vah\u015Fi"
+    - "Et\xE7il"
+    - "S\xFCr\xFCngen"
+    CorrectAnswer: 1
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: 22e7b8355c6a94b46a2abece2186bd81, type: 3}
+    Question: "Bu hayvan a\u015Fa\u011F\u0131dakilerden hangisi olabilir?"
+    Answer:
+    - Evcil
+    - "Vah\u015Fi"
+    - "Et\xE7il"
+    - "S\xFCr\xFCngen"
+    CorrectAnswer: 2
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: dda828b04921a4a438ee1db08869ef18, type: 3}
+    Question: "Bu hayvan a\u015Fa\u011F\u0131dakilerden hangisi s\xF6ylenebilir?"
+    Answer:
+    - "Metamorfoz ge\xE7iren bir hayvand\u0131r"
+    - "Bir ku\u015Ftur"
+    - "Et\xE7il bir hayvand\u0131r"
+    - "S\xFCr\xFCngen bir hayvand\u0131r"
+    CorrectAnswer: 1

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: Eng1
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: 22e7b8355c6a94b46a2abece2186bd81, type: 3}
+    Question: Which one is the name of this cute animal that feed on bamboo?
+    Answer:
+    - Panda
+    - Brown bear
+    - Polar bear
+    - Parrot
+    CorrectAnswer: 1
+  - audio: {fileID: 8300000, guid: 0f3c3f244f8aede4e864b5ea05c2f9ad, type: 3}
+    image: {fileID: 21300000, guid: 0cd464cc17c169a4481d2f67c5e8739d, type: 3}
+    Question: What is the name of this animal, which is generally known to feed on
+      carrots?
+    Answer:
+    - Mice
+    - Hamster
+    - Rabbit
+    - Squerrel
+    CorrectAnswer: 3

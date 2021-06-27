@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: Deutch3
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 0}
+    image: {fileID: 21300000, guid: 5f18eb19cfaf41b4ea6c8c426e337922, type: 3}
+    Question: Whelches ist die richtige antwort?
+    Answer:
+    - Scholl
+    - Schocken
+    - Schokolade
+    - Scholz
+    CorrectAnswer: 3
+  - audio: {fileID: 8300000, guid: ca8b462eb73cc8c4a93fb821417836d7, type: 3}
+    image: {fileID: 21300000, guid: 69a96be51552a754494c0c5a4628f12d, type: 3}
+    Question: "Bitte h\xF6ren Sie auf und w\xE4hlen Sie die richtige Antwort?"
+    Answer:
+    - Ich fahrt Fahrad
+    - "Sie f\xE4hrt Fahrrad"
+    - "Er f\xE4hrt Fahrrad"
+    - "Wir f\xE4hrt Fahrrad"
+    CorrectAnswer: 2

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: TRlevel3
+  m_EditorClassIdentifier: 
+  qNa:
+  - audio: {fileID: 8300000, guid: 12e4b21e490792744a4946610d1a37fb, type: 3}
+    image: {fileID: 21300000, guid: 67d9b015713684d4fa6b9ecbcb060f9f, type: 3}
+    Question: "\u0130nsanlar\u0131n sad\u0131k dostu olan bu hayvan\u0131n ad\u0131
+      a\u015Fa\u011F\u0131dakilerden hangisi olabilir?"
+    Answer:
+    - "K\xF6pke"
+    - "K\xF6pek"
+    - "K\xF6p\xF6k"
+    - "Karaba\u015F"
+    CorrectAnswer: 2
